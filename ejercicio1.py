@@ -1,0 +1,21 @@
+"""
+1. Crea una variable llamada nombre y asígnale tu nombre como valor.
+Luego, imprime la variable.
+2. Crea dos variables, a y b , y asígnales los valores 5 y 10
+respectivamente. Luego, imprime la suma de a y b 
+3. Calcula el área de un triángulo con base 10 y altura 5.
+4. Calcula el resto de dividir 17 entre 3.
+"""
+nombre = "howar"
+print (nombre)
+
+a = 5
+b = 10
+print (a+b)
+
+base = 10
+altura = 5
+area = (base*altura) / 2
+print (area)
+
+print (17 / 3)
